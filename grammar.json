@@ -1,0 +1,84 @@
+{
+"Present Simple":
+{
+  "Present Simple": "Subject + Verb (основной глагол) + Object (если есть)",
+  "Description": "Present Simple используется для описания регулярных или общих действий и состояний. Обычно, в Present Simple используются наречия частотности, например always, often, sometimes, rarely, never.",
+  "Example": "He always eats breakfast at 7:00 am."
+},
+
+"Present Continuous":
+{
+  "Present Continuous": "Subject + be (am, is, are) + Verb (герундий) + Object (если есть)",
+  "Description": "Present Continuous используется для описания действий, которые происходят в момент речи или в ближайшее время. Также этот временной формы может использоваться для описания планов на будущее.",
+  "Example": "I am currently studying English grammar."
+},
+
+"Present Perfect":
+{
+  "Present Perfect": "Subject + have/has + Verb (причастие прошедшего времени) + Object (если есть)",
+  "Description": "Present Perfect используется для описания действий, которые произошли в прошлом, но имеют связь с настоящим. Также этот временной формы может использоваться для описания опыта в прошлом.",
+  "Example": "She has visited London several times in her life."
+},
+
+"Past Simple":
+{
+  "Past Simple": "Subject + Verb (прошедшее время) + Object (если есть)",
+  "Description": "Past Simple используется для описания завершенных действий в прошлом.",
+  "Example": "I walked to the store yesterday."
+},
+
+"Past Continuous":
+{
+  "Past Continuous": "Subject + was/were + Verb (герундий) + Object (если есть)",
+  "Description": "Past Continuous используется для описания действий, которые происходили в определенный момент в прошлом.",
+  "Example": "I was studying for my exams when the phone rang."
+},
+
+"Past Perfect":
+{
+  "Past Perfect": "Subject + had + Verb (причастие прошедшего времени) + Object (если есть)",
+  "Description": "Past Perfect используется для описания завершенных действий, которые произошли до определенного момента в прошлом.",
+  "Example": "He had already eaten breakfast before he left the house."
+},
+
+"Future Simple":
+{
+  "Future Simple": "Subject + will/shall + Verb (основной глагол) + Object (если есть)",
+  "Description": "Future Simple используется для описания действий, которые произойдут в будущем.",
+  "Example": "I will go to the gym tomorrow morning."
+},
+"Future Continuous":
+{
+  "Future Continuous": "Subject + will/shall + be + Verb (герундий) Object (если есть)",
+  "Description": "Future Continuous используется для описания действий, которые будут происходить в определенный момент в будущем.",
+  "Example": "I will be studying for my exams all day tomorrow."
+},
+
+"Future Perfect":
+{
+  "Future Perfect": "Subject + will/shall + have + Verb (причастие прошедшего времени) + Object (если есть)",
+  "Description": "Future Perfect используется для описания завершенных действий к определенному моменту в будущем.",
+  "Example": "By the time you arrive, I will have finished my work."
+},
+
+"Present Perfect Continuous":
+{
+  "Present Perfect Continuous": "Subject + have/has + been + Verb (герундий) + Object (если есть)",
+  "Description": "Present Perfect Continuous используется для описания действий, которые начались в прошлом и продолжаются в настоящее время.",
+  "Example": "I have been studying English for three years."
+},
+
+"Past Perfect Continuous":
+{
+  "Past Perfect Continuous": "Subject + had + been + Verb (герундий) + Object (если есть)",
+  "Description": "Past Perfect Continuous используется для описания действий, которые начались в прошлом и продолжались до определенного момента в прошлом.",
+  "Example": "He had been working on the project for three weeks when he finally finished it."
+},
+
+"Future Perfect Continuous":
+{
+  "Future Perfect Continuous": "Subject + will/shall + have + been + Verb (герундий) + Object (если есть)",
+  "Description": "Future Perfect Continuous используется для описания действий, которые начнутся в будущем и продолжатся до определенного момента в будущем.",
+  "Example": "By the end of the year, I will have been living in this city for ten years."
+}
+}
